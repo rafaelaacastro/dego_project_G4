@@ -194,8 +194,6 @@ dego_project_G4
 - src
   1) data_cleaning.py
   2) fairness_utils.py
-- presentation
-  1) final_presentation.pdf
 - .gitignore
 - README.md
 
@@ -219,6 +217,7 @@ dego_project_G4
 # License
 
 This repository is part of an academic project and is intended for educational purposes.
+
 
 
 
