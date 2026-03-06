@@ -184,25 +184,20 @@ These measures help ensure **responsible, transparent, and compliant use of auto
 # Repository Structure
 
 dego_project_G4
-│
-├ data
-│   ├ raw_credit_applications.json
-│   └ cleaned_dataset.json
-│
-├ notebooks
-│   ├ 01-data-quality.ipynb
-│   ├ 02-bias-analysis.ipynb
-│   └ 03-privacy-demo.ipynb
-│
-├ src
-│   ├ data_cleaning.py
-│   └ fairness_utils.py
-│
-├ presentation
-│   └ final_presentation.pdf
-│
-├ .gitignore
-└ README.md
+- data
+  1) raw_credit_applications.json
+  2) cleaned_dataset.json
+- notebooks
+  1) 01-data-quality.ipynb
+  2) 02-bias-analysis.ipynb
+  3) 03-privacy-demo.ipynb
+- src
+  1) data_cleaning.py
+  2) fairness_utils.py
+- presentation
+  1) final_presentation.pdf
+- .gitignore
+- README.md
 
 
 # Team Members
@@ -224,5 +219,6 @@ dego_project_G4
 # License
 
 This repository is part of an academic project and is intended for educational purposes.
+
 
 
