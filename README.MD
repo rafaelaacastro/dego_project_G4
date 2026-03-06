@@ -199,10 +199,10 @@ dego_project_G4
 
 # Team Members
 
-Data Engineer -> Rafaela Castro 
-Data Scientist -> Isaac Carvalho 
-Governance Officer -> Simone 
-Product Lead -> Beatrice Volpi
+- Data Engineer -> Rafaela Castro 
+- Data Scientist -> Isaac Carvalho 
+- Governance Officer -> Simone 
+- Product Lead -> Beatrice Volpi
 
 
 # Course Information
@@ -216,3 +216,4 @@ Product Lead -> Beatrice Volpi
 # License
 
 This repository is part of an academic project and is intended for educational purposes.
+
