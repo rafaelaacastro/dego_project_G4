@@ -202,7 +202,7 @@ dego_project_G4
 
 - Data Engineer -> Rafaela Castro 
 - Data Scientist -> Isaac Carvalho 
-- Governance Officer -> Simone 
+- Governance Officer -> Simone Capata
 - Product Lead -> Beatrice Volpi
 
 
